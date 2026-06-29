@@ -1,0 +1,2 @@
+# Goldbot
+Mygoldbot
