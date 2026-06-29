@@ -1,1 +1,2 @@
-worker: python xauusd_bot_ready.py
+worker: python main.py
+
